@@ -1,0 +1,4 @@
+Including:
+    dist/firmware.bin
+attempting to flash firmware to your device 430044001051353338363333
+Flash device failed: [object Object]

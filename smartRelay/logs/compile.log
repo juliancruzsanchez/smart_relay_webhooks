@@ -1,0 +1,16 @@
+
+Compiling code for photon
+
+Including:
+    src\web_server.h
+    src\smartRelay.ino
+    project.properties
+attempting to compile firmware 
+downloading binary from: /v1/binaries/5c2a9df1a431604d92acc881
+saving to: photon_firmware_1546296809177.bin
+Memory use: 
+   text	   data	    bss	    dec	    hex	filename
+  26476	    124	   1404	  28004	   6d64	/workspace/target/workspace.elf
+
+Compile succeeded.
+Saved firmware to: C:\Users\Julian Sanchez\Documents\Code\light_ifttt\smartRelay\photon_firmware_1546296809177.bin
